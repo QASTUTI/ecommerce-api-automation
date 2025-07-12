@@ -1,0 +1,9 @@
+<suite name="ECommerceAPI Suite">
+  <test name="ECommerce API Tests">
+    <classes>
+      <class name="com.ecommerce.tests.LoginTest"/>
+      <class name="com.ecommerce.tests.ProductTests"/>
+      <class name="com.ecommerce.tests.CartTests"/>
+    </classes>
+  </test>
+</suite>
